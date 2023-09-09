@@ -1,4 +1,4 @@
-🖖 Hi, I'm @Alek1l99 - a full stack developer experienced in MEAN and .NET technologies.
+🖖 Hi, I'm @PhixAlek - a full stack developer experienced in MEAN and .NET technologies.
 
 🕹️ I'm passionate about game development and currently learning more about it. Additionally, I'm seeking opportunities in project management and leadership to continue my professional growth.
 
