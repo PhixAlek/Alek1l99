@@ -4,7 +4,7 @@
 
 🌱 As a software engineering student, I have a strong foundation in C# and always eager to learn more.
 
-📫 Reach out to me on LinkedIn at https://www.linkedin.com/in/alek1l99/ and visit my website at https://alejandro-segura.com/.
+📫 Reach out to me on LinkedIn at https://www.linkedin.com/in/PhixAlek/ and visit my website at https://alejandro-segura.com/.
 
 <!---
 Alek1l99/Alek1l99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
